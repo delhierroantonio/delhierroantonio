@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate with **Developers**
 
-- 👨‍💻 All of my projects are available at [https://delhierroantonio.dev/](https://delhierroantonio.dev/)
-
 - 📫 How to reach me **contact@delhierroantonio.dev**
 
 <h3 align="left">Connect with me:</h3>
